@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documentos/curso js"
+		},
+		{
+			"path": "../../PROJECT-TEMPLATE_C11-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PROJECT-TEMPLATE_C11-main",
+		"mocha.subdirectory": "..\\..\\..\\..\\..\\C:\\Users\\wlq20\\OneDrive\\Área de Trabalho\\coisas do matheus\\PROJECT-TEMPLATE_C11-main"
+	}
+}
